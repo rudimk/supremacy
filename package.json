@@ -16,7 +16,7 @@
   ],
   "author": "Rudraksh MK",
   "license": "MIT",
-  dependencies": {
+  "dependencies": {
     "http-proxy": "^1.14.0",
     "http-proxy-rules": "^1.0.1"
   },
